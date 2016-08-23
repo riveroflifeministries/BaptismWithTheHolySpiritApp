@@ -9,7 +9,7 @@ import FathersPromise from './content/FathersPromise';
 class BaptismWithTheHolySpiritApp extends Component {
   render() {
     return (
-      <View>
+      <View style={styles.container}>
         <StatusBar
           backgroundColor="#1976D2"
           barStyle="light-content" />
@@ -28,6 +28,10 @@ const styles = StyleSheet.create({
   toolbar: {
     backgroundColor: 'grey',
     height: 40,
+  },
+
+  container: {
+    flex: 1,
   },
 });
 
