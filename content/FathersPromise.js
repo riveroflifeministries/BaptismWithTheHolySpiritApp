@@ -6,6 +6,8 @@ import { StyleSheet, ScrollView, Text } from 'react-native';
 
 export default class FathersPromise extends Component {
   render() {
+    const year = new Date().getFullYear();
+
     return (
       <ScrollView
         style={styles.body}>
@@ -82,6 +84,233 @@ export default class FathersPromise extends Component {
         <Text style={styles.text}>
           Note that although Paul had such a supernatural salvation experience, even hearing the Lord’s voice, he was not yet filled with the Holy Spirit! He only received the baptism in the Holy Spirit three days later when Ananias laid hands on him.
         </Text>
+
+
+
+        <Text style={styles.title}>
+          6. Peter and Cornelius
+        </Text>
+        <Text style={styles.text}>
+          Peter preached the gospel to Cornelius. In Acts 10:43 Peter says, “All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.” At this point Cornelius and his household believe in Jesus and are saved. Verse 44-48 continues:
+        </Text>
+        <Text style={styles.text}>
+          While Peter was still speaking these words, the Holy Spirit fell on all those who heard the word. They of the circumcision who believed were amazed, as many as came with Peter, because the gift of the Holy Spirit was also poured out on the Gentiles. For they heard them speaking in other  tongues and magnifying God. Then Peter answered, “Can anyone forbid these people from being baptized with water? They have received the Holy Spirit just like us.” He commanded them to be baptized in the name of Jesus Christ.
+        </Text>
+        <Text style={styles.text}>
+          How did Peter know that Cornelius and his household had received the gift of the Holy Spirit? He knew because he heard them speaking in tongues. To Peter and the believers with him, tongues were the sign of the baptism in the Holy Spirit.
+        </Text>
+
+
+        <Text style={styles.title}>
+          7. Peter Explains
+        </Text>
+        <Text style={styles.text}>
+          The story continues in Acts 11 where Peter explains to the other apostles what had happened,
+        </Text>
+        <Text style={styles.text}>
+          “I remembered the word of the Lord, how he said, ‘John indeed baptized in water, but you will be baptized in the Holy Spirit.’ If then God gave to them the same gift as us, when we believed in the Lord Jesus Christ, who was I, that I could withstand God?” (Acts 11:16-17)
+        </Text>
+        <Text style={styles.text}>
+          In Acts 10 & 11 there are 5 synonyms for the baptism in the Holy Spirit:
+        </Text>
+        <Text style={styles.text}>
+          ▪  the Holy Spirit fell on all (Acts 10:44)
+        </Text>
+        <Text style={styles.text}>
+          ▪  the gift of the Holy Spirit was poured out (:45)
+        </Text>
+        <Text style={styles.text}>
+          ▪  they have received the Holy Spirit (:47)
+        </Text>
+        <Text style={styles.text}>
+          ▪  baptized in the Holy Spirit (11:16)
+        </Text>
+        <Text style={styles.text}>
+          ▪  God gave them the same gift as he gave us (:17)
+        </Text>
+        <Text style={styles.text}>
+          There is one more synonym for the baptism in the Holy Spirit in Acts 2:4:
+        </Text>
+        <Text style={styles.text}>
+          ▪  All of them were filled with the Holy Spirit
+        </Text>
+        <Text style={styles.text}>
+          The gift is the Holy Spirit; tongues are the sign of the baptism in the Holy Spirit.
+        </Text>
+
+
+        <Text style={styles.title}>
+          8. Receiving Long After Salvation
+        </Text>
+        <Text style={styles.text}>
+          Paul went to the city of Ephesus where he found a group of disciples (Acts 19).
+        </Text>
+        <Text style={styles.text}>
+          He asked them, “Did you receive the Holy Spirit when you believed?” They said to him, “No, we haven’t even heard that there is a Holy Spirit.” (Acts 19:2)
+        </Text>
+        <Text style={styles.text}>
+          Now these people were already saved, for they had believed, but they did not know about receiving the Holy Spirit. Paul’s immediate response was to make sure that they received the baptism in the Holy Spirit.
+        </Text>
+        <Text style={styles.text}>
+          Acts 19:6 When Paul had laid his hands on them, the Holy Spirit came on them, and they spoke with other tongues and prophesied.
+        </Text>
+        <Text style={styles.text}>
+          Paul went on to plant a church in Ephesus and the baptism in the Holy Spirit was part of the foundation he laid. He understood the importance of the baptism in the Holy Spirit in every believer’s life. Later on he wrote the Book of Ephesians to these believers.
+        </Text>
+
+
+        <Text style={styles.title}>
+          9. About Tongues
+        </Text>
+        <Text style={styles.text}>
+          The idea of speaking in tongues can be a little intimidating, but as we have seen in the Bible, it is the sign of the baptism in the Holy Spirit. The Holy Spirit is the gift the Father promised, and the Father gives good gifts (James 1:17). Jesus said that those who believe in him will speak in tongues (Mark 16:17). It is all good, the baptism in  the Holy Spirit and speaking in tongues. Paul is in agreement with Jesus that we should speak in tongues. He was thankful that he spoke in tongues and he warned against forbidding anyone to speak in tongues.
+        </Text>
+        <Text style={styles.text}>
+          Now I desire to have you all speak with other tongues (1 Corinthians 14:5).
+        </Text>
+        <Text style={styles.text}>
+          I thank my God, I speak with other tongues more than you all. (I Cor 14:18)
+        </Text>
+        <Text style={styles.text}>
+          don’t forbid speaking with other tongues. (1 Cor 14:39)
+        </Text>
+        <Text style={styles.text}>
+          Have you ever prayed and felt that you lacked the words to adequately express yourself? Tongues will lift your prayer life to a new level.
+        </Text>
+
+
+        <Text style={styles.title}>
+          10. The Purpose of Speaking in Tongues
+        </Text>
+
+        <Text style={styles.text}>
+          Praying in Tongues
+        </Text>
+        <Text style={styles.text}>
+          Paul wrote in I Cor 14:2, “For he who speaks in another tongue speaks not to men, but to God; for no one understands; but in the Spirit he speaks mysteries.”
+        </Text>
+
+        <Text style={styles.text}>
+          When you pray you speak to God. God gave tongues to you and He understands what you are praying. If you do not know what to pray in a particular situation, pray in tongues. You will be praying the mysteries of God into that situation.
+        </Text>
+        <Text style={styles.text}>
+          Paul also wrote Eph 6:18 ‘praying at all times in the Spirit’
+        </Text>
+        <Text style={styles.text}>
+          To pray in the Spirit is to pray in tongues.
+        </Text>
+
+        <Text style={styles.text}>
+          Worshipping the Lord
+        </Text>
+        <Text style={styles.text}>
+          We can also worship the Lord in a new way by singing in tongues.
+        </Text>
+
+        <Text style={styles.text}>
+          1 Cor 14:15 What is it then? I will pray with the spirit, and I will pray with the understanding also. I will sing with the spirit, and I will sing with the understanding also.
+        </Text>
+        <Text style={styles.text}>
+          All of us feel low at times and need encouragement in the Lord. When we speak in tongues, we edify or strengthen ourselves in the Lord. Paul wrote in
+        </Text>
+        <Text style={styles.text}>
+          1 Cor 14:4 He who speaks in another tongue edifies himself
+        </Text>
+
+
+        <Text style={styles.title}>
+          11. What About an Interpretation?
+        </Text>
+        <Text style={styles.text}>
+          When you pray in tongues, you are speaking to God. He gave tongues to you and  He understands what you are saying. No interpretation is necessary. The whole church can also pray together in tongues, just as we can pray together in English, but tongues can also be used to bring a prophetic message to the church. Then it needs to be followed by an interpretation. In I Cor 14 Paul writes within the context of a church meeting,
+        </Text>
+        <Text style={styles.text}>
+          ‘Now I desire to have you all speak with other tongues, but rather that you would prophesy. For he is greater who prophesies than he who speaks with other tongues, unless he interprets, that the assembly may be built up (14:5). So also you, since you are zealous for spiritual gifts, seek that you may abound to the building up of the assembly. Therefore let him who speaks in another tongue pray that he may interpret (14:12-13).
+        </Text>
+        <Text style={styles.text}>
+          Again, this is when you address a group of believers, but you may still pray in tongues and no interpretation is necessary, because God understands.
+        </Text>
+
+
+        <Text style={styles.title}>
+          12. Receive Today
+        </Text>
+        <Text style={styles.text}>
+          The Father’s promise of the Holy Spirit is for us today!
+        </Text>
+        <Text style={styles.text}>
+          Peter said to them, “Repent, and be baptized, every one of you, in the name of Je sus Christ for the forgiveness of sins, and you will receive the gift of the Holy Spirit. For the promise is to you, and to your children, and to all who are far off, even as many as the Lord our God will call to himself.” (Acts 2:38)
+        </Text>
+        <Text style={styles.text}>
+          Ask the Father. Jesus said,
+        </Text>
+        <Text style={styles.text}>
+          “If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask him?” (Luke 11:13)
+        </Text>
+        <Text style={styles.text}>
+          Receive by faith. Paul writes,
+        </Text>
+        <Text style={styles.text}>
+          I just want to learn this from you: Did you receive the Spirit by the works of the law, or by hearing of faith? (Gal 3:2)
+        </Text>
+
+
+        <Text style={styles.title}>
+          13. Pray this Prayer
+        </Text>
+        <Text style={styles.text}>
+          If you have accepted Jesus as Lord and Savior, ask for the baptism in the Holy Spirit by praying this  prayer:
+        </Text>
+        <Text style={styles.text}>
+          Father, I come to you in the Name of Jesus. I thank you for the promised gift of the Holy Spirit.
+        </Text>
+        <Text style={styles.text}>
+          Lord Jesus, baptize me now with the Holy Spirit and with fire.
+        </Text>
+        <Text style={styles.text}>
+          Holy Spirit, I receive you now. Fill me with your Person and with your power and enable me to speak in tongues.
+        </Text>
+        <Text style={styles.text}>
+          And I renounce any reliance on any wrong spirits or any wrong doctrine and any false god or idol in the Name of Jesus. Amen.
+        </Text>
+        <Text style={styles.text}>
+          Lift your hands in a prayerful attitude as someone who is baptized in the Holy Spirit lays hands on you. Receive by faith, expect to speak in tongues.
+        </Text>
+
+        <Text style={styles.text}>
+          Read 14 before praying.
+        </Text>
+
+
+        <Text style={styles.title}>
+          14. Start Speaking...
+        </Text>
+        <Text style={styles.text}>
+          The Bible says, ‘They spoke in tongues.’ (Acts 19:6). The abiblty to speak in tongues is supernatural, but you still have to speak. As hands are laid upon you, the Holy Spirit will put strange sounds in you. In faith, start moving your lips to say these sounds. At first it may sound like babble or groanings, but as you continue the words will become more distinct. Some people receive only a few words, while others gush forth in a flow of utterance. That’s okay. As you use your prayer language, more words will come.
+        </Text>
+        <Text style={styles.text}>
+          The baptism in  the Holy Spirit brings supernatural power. Jesus said,
+        </Text>
+        <Text style={styles.text}>
+          “But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.” (Acts 1:8).
+        </Text>
+        <Text style={styles.text}>
+          You will have more power to be a witness, even to lay hands on the sick for healing. The ability to prophesy, greater depth in worship and a deeper understanding of the Word also come in the baptism with the Holy Spirit.
+        </Text>
+        <Text style={styles.text}>
+          The Baptism with the Holy Spirit will affect your whole spiritual life in a profound way.  You receive power and you will be much stronger in the Spirit.
+        </Text>
+
+
+        <Text style={styles.text}>
+          All Scripture verses are taken from The World English Bible. The WEB is a public domain Modern English version of the Bible, an update of the American Standard Version of 1901.
+        </Text>
+        <Text style={styles.text}>
+          Copyright {year} Hamilton & Helena Filmalter
+        </Text>
+        <Text style={styles.text}>
+          Visit activeintheharvest.com to print a pamphlet
+        </Text>
       </ScrollView>
     )
   }
@@ -93,7 +322,8 @@ const styles = StyleSheet.create({
   },
 
   title: {
-    fontSize: 18,
+    fontSize: 20,
+    fontWeight: '500',
 
     marginTop: 20,
     marginRight: 20,
@@ -103,6 +333,7 @@ const styles = StyleSheet.create({
 
   text: {
     fontSize: 14,
+    lineHeight: 24,
 
     marginRight: 20,
     marginBottom: 10,
