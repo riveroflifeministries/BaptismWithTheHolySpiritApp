@@ -75,6 +75,7 @@ export default class FathersPromise extends Component {
         <Text style={styles.title}>
           5. Paul Received the Holy Spirit
         </Text>
+
         <Text style={styles.text}>
           Does the example of salvation first and then the baptism in the Holy Spirit repeat in the Book of Acts? Paul gets saved on the road to Damascus when Jesus appears to him. Entering Damascus, he is a very different man from the one who left Jerusalem ready to imprison and kill believers. Three days later the Lord sends an ordinary believer, Ananias, to lay hands on him to be filled with the Holy Spirit.
         </Text>
@@ -86,16 +87,11 @@ export default class FathersPromise extends Component {
         </Text>
 
 
-
         <Text style={styles.title}>
           6. Peter and Cornelius
         </Text>
-        <Text style={styles.text}>
-          Peter preached the gospel to Cornelius. In Acts 10:43 Peter says, “All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.” At this point Cornelius and his household believe in Jesus and are saved. Verse 44-48 continues:
-        </Text>
-        <Text style={styles.text}>
-          While Peter was still speaking these words, the Holy Spirit fell on all those who heard the word. They of the circumcision who believed were amazed, as many as came with Peter, because the gift of the Holy Spirit was also poured out on the Gentiles. For they heard them speaking in other  tongues and magnifying God. Then Peter answered, “Can anyone forbid these people from being baptized with water? They have received the Holy Spirit just like us.” He commanded them to be baptized in the name of Jesus Christ.
-        </Text>
+
+        <Text style={styles.text}>Peter preached the gospel to Cornelius. In Acts 10:43 Peter says, “All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.” At this point Cornelius and his household believe in Jesus and are saved. Verse 44-48 continues:</Text><Text style={styles.text}>While Peter was still speaking these words, the Holy Spirit fell on all those who heard the word. They of the circumcision who believed were amazed, as many as came with Peter, because the gift of the Holy Spirit was also poured out on the Gentiles. For they heard them speaking in other  tongues and magnifying God. Then Peter answered, “Can anyone forbid these people from being baptized with water? They have received the Holy Spirit just like us.” He commanded them to be baptized in the name of Jesus Christ.</Text>
         <Text style={styles.text}>
           How did Peter know that Cornelius and his household had received the gift of the Holy Spirit? He knew because he heard them speaking in tongues. To Peter and the believers with him, tongues were the sign of the baptism in the Holy Spirit.
         </Text>

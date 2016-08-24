@@ -3,7 +3,7 @@
 import React, { Component } from 'react';
 import { AppRegistry, StyleSheet, NavigatorIOS } from 'react-native';
 
-import FathersPromise from './content/FathersPromise';
+import FathersPromise from './src/content/FathersPromise';
 
 class BaptismWithTheHolySpiritApp extends Component {
   render() {
