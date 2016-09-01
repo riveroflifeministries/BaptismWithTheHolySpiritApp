@@ -6,7 +6,7 @@ import { Toolbar } from 'react-native-material-ui';
 import FathersPromise from './src/content/FathersPromise';
 
 
-class BaptismWithTheHolySpiritApp extends Component {
+class TheFathersPromise extends Component {
   render() {
     return (
       <View
@@ -27,4 +27,4 @@ const styles = StyleSheet.create({
 
 });
 
-AppRegistry.registerComponent('BaptismWithTheHolySpiritApp', () => BaptismWithTheHolySpiritApp);
+AppRegistry.registerComponent('TheFathersPromise', () => TheFathersPromise);

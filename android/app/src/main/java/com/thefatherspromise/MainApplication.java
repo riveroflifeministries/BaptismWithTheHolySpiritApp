@@ -1,4 +1,4 @@
-package com.baptismwiththeholyspiritapp;
+package com.thefatherspromise;
 
 import android.app.Application;
 import android.util.Log;

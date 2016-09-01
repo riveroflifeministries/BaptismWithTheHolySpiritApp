@@ -5,7 +5,7 @@ import { AppRegistry, StyleSheet, NavigatorIOS } from 'react-native';
 
 import FathersPromise from './src/content/FathersPromise';
 
-class BaptismWithTheHolySpiritApp extends Component {
+class TheFathersPromise extends Component {
   render() {
     return (
       <NavigatorIOS
@@ -24,4 +24,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('BaptismWithTheHolySpiritApp', () => BaptismWithTheHolySpiritApp);
+AppRegistry.registerComponent('TheFathersPromise', () => TheFathersPromise);
