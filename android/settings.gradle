@@ -1,3 +1,5 @@
 rootProject.name = 'TheFathersPromise'
 
 include ':app'
+include ':react-native-android-taskdescription'
+project(':react-native-android-taskdescription').projectDir = new File(settingsDir, '../node_modules/react-native-android-taskdescription')
