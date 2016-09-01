@@ -1,5 +1,9 @@
 rootProject.name = 'TheFathersPromise'
 
 include ':app'
+
 include ':react-native-android-taskdescription'
 project(':react-native-android-taskdescription').projectDir = new File(settingsDir, '../node_modules/react-native-android-taskdescription')
+
+include ':react-native-android-statusbar'
+project(':react-native-android-statusbar').projectDir = new File(settingsDir, '../node_modules/react-native-android-statusbar')
