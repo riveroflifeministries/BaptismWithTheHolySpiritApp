@@ -1,7 +1,7 @@
 'use strict';
 
 import React, { Component } from 'react';
-import { AppRegistry, StyleSheet, NavigatorIOS } from 'react-native';
+import { AppRegistry, NavigatorIOS, StyleSheet } from 'react-native';
 
 import FathersPromise from './src/content/FathersPromise';
 
@@ -11,7 +11,7 @@ class TheFathersPromise extends Component {
       <NavigatorIOS
         style={styles.container}
         initialRoute={{
-          title: 'The Fathers Promise',
+          title: 'The Father\'s Promise',
           component: FathersPromise,
         }} />
     )

@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
                BuildableName = "TheFathersPromise.app"
-               BlueprintName = "TheFathersPromise"
-               ReferencedContainer = "container:TheFathersPromise.xcodeproj">
+               BlueprintName = "The Father&apos;s Promise"
+               ReferencedContainer = "container:The Father&apos;s Promise.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "TheFathersPromiseTests.xctest"
-               BlueprintName = "TheFathersPromiseTests"
-               ReferencedContainer = "container:TheFathersPromise.xcodeproj">
+               BuildableName = "The Father&apos;s PromiseTests.xctest"
+               BlueprintName = "The Father&apos;s PromiseTests"
+               ReferencedContainer = "container:The Father&apos;s Promise.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "TheFathersPromiseTests.xctest"
-               BlueprintName = "TheFathersPromiseTests"
-               ReferencedContainer = "container:TheFathersPromise.xcodeproj">
+               BuildableName = "The Father&apos;s PromiseTests.xctest"
+               BlueprintName = "The Father&apos;s PromiseTests"
+               ReferencedContainer = "container:The Father&apos;s Promise.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -58,8 +58,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "TheFathersPromise.app"
-            BlueprintName = "TheFathersPromise"
-            ReferencedContainer = "container:TheFathersPromise.xcodeproj">
+            BlueprintName = "The Father&apos;s Promise"
+            ReferencedContainer = "container:The Father&apos;s Promise.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "TheFathersPromise.app"
-            BlueprintName = "TheFathersPromise"
-            ReferencedContainer = "container:TheFathersPromise.xcodeproj">
+            BlueprintName = "The Father&apos;s Promise"
+            ReferencedContainer = "container:The Father&apos;s Promise.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -100,8 +100,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "TheFathersPromise.app"
-            BlueprintName = "TheFathersPromise"
-            ReferencedContainer = "container:TheFathersPromise.xcodeproj">
+            BlueprintName = "The Father&apos;s Promise"
+            ReferencedContainer = "container:The Father&apos;s Promise.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
