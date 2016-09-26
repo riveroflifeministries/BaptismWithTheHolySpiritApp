@@ -33,7 +33,7 @@ class TheFathersPromise extends Component {
           style={styles.container}
           showsVerticalScrollIndicator={false}>
           <TaskDescriptionAndroid backgroundColor={COLOR.red600} />
-          <Toolbar centerElement="The Father's Promise" />
+          <Toolbar centerElement="Holy Spirit Baptism" />
 
           <FathersPromise />
         </View>

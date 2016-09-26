@@ -1,4 +1,4 @@
-package com.thefatherspromise;
+package com.rolm.thefatherspromise;
 
 import com.facebook.react.ReactActivity;
 

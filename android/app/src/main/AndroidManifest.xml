@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.thefatherspromise"
+    package="com.rolm.thefatherspromise"
     android:versionCode="1"
     android:versionName="1.0">
 
