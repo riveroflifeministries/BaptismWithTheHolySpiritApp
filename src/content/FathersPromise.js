@@ -320,6 +320,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 20,
     fontWeight: '500',
+    color: '#000',
 
     marginTop: 20,
     marginRight: 20,
@@ -330,6 +331,7 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 14,
     lineHeight: 24,
+    color: '#000',
 
     marginRight: 20,
     marginBottom: 10,
